@@ -20,3 +20,4 @@ Include a step for witness nodes to validate and package transactions into block
 Simulate More Blockchain Operations:
 
 Expand the code to simulate multiple rounds of block generation and validation.
+ I am thinking next to add further features like consensus visualization, detailed logging, or integration with more advanced quantum protocols.
